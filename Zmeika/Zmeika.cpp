@@ -1,9 +1,7 @@
 ﻿#include <iostream>
-
-using namespace std;
-
 #define WIDTH 120
 #define HEIGHT 30
+using namespace std;
 
 void TMAP() {
 	char size[HEIGHT][WIDTH];
